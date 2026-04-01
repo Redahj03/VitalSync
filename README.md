@@ -42,3 +42,4 @@ flowchart LR
   BE -->|TCP 5432| DB[(PostgreSQL)]
 ```
 
+# VitalSync
